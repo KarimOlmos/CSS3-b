@@ -1,0 +1,116 @@
+h1{
+
+text-align: center;
+background-color: blue;
+font-family: 'Potta One', cursive;
+color: yellow;
+border: 2px blue;
+width: 150vmin;
+
+
+}
+
+hr.a1{
+
+background-color: grey;
+
+width: 100vmin;
+height: 2px;
+left: 100%;
+
+}
+
+hr.a2{
+
+background-color: grey;
+
+width: 100vmin;
+height: 2px;
+float: right;
+
+}
+
+section {
+
+display: inline-block
+
+}
+
+.a{
+content-box: border-box;
+float: left ;
+text-align: center;
+background-color: #19B299;
+font-family: 'Potta One', cursive;
+color: white;
+border: 2px blue;
+width: 50vmin;
+heigth: 150vmin;
+position: left;
+}
+
+.b{
+content-box: ;
+display: inline;
+text-align: right;
+background-color: black;
+font-family: font-family: 'Coda Caption', sans-serif;
+color: yellow;
+
+width: 140vmin;
+heigth: 150vmin;
+line-height: 3.5;
+line-width: 2.5;
+
+text-indent: 15%;
+}
+
+.c{
+
+
+text-align: left;
+background-color:;
+font-family: 'Potta One', cursive;
+color: ;
+border: 2px blue;
+font-size: x-large;
+font-weight: bold;
+text-indent: 0%;
+margin: blue;
+line-height: 2;
+line-width: 2;
+word-spacing: 5px;
+
+}
+
+.d{
+line-width: 2;
+line-height: 2;
+text-align: left;
+background-color: ;
+font-family: 'Yusei Magic', sans-serif;
+color: ;
+border: 2px blue;
+heigth: 150vmin;
+font-weight: bold;
+font-size: large;
+}
+
+section{
+
+content-box: border-box;
+display: inline-block;
+
+}
+
+
+
+hr{
+text-align: left;
+content-box: border-box;
+background-color: blue;
+border: 2px blue;
+height: 3vmin;
+width: 200vmin;
+
+}
